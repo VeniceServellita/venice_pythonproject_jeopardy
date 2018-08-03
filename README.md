@@ -1,1 +1,1 @@
-# venice_pythonproject_jeopardy
+# venice_pythonproject_jtrivia
